@@ -172,6 +172,8 @@ As we bid adieu to this chapter of our analytical odyssey, we stand on the preci
 possibilities, ready to embark on new adventures, conquer new challenges, and unearth new
 treasures hidden within the vast expanse of data-driven exploration.
 
+![image](https://github.com/raisaurabh44/Netflix_Shares_Price_Prediction_Linear_Regression/assets/139812850/4d204f03-565a-4323-88f8-35d814d5fccc)
+
 # Feb 16, 2024 590.03 difference is = 590.54 - 590.03 = +0.51
 # Feb 15, 2024 593.46 difference is = 590.21 - 593.46 = -3.25
 # Feb 14, 2024 579.33 difference is = 576.22 - 579.33 = -3.11
