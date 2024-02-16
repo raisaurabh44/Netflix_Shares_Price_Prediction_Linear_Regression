@@ -64,6 +64,9 @@ proactive decision-making and strategic planning. This introductory paragraph se
 a deeper dive into the methods and tools used in time series analysis, empowering analysts to
 extract meaningful insights and derive actionable conclusions from temporal data.
 
+![image](https://github.com/raisaurabh44/Netflix_Shares_Price_Prediction_Linear_Regression/assets/139812850/096c052c-0a1f-4dd4-b7a9-ec682152276f)
+
+
 Upon examining the side-by-side comparison of the "Open" and "Close" time series plots, it
 becomes evident that the patterns exhibited by both columns are strikingly similar. However,
 subtle differences can be observed between the two. In the "Open" plot, the price initiates with a
@@ -73,6 +76,9 @@ trading day, reflecting a potential decrease in market sentiment as trading come
 Despite these minor discrepancies, the overarching trends and fluctuations in both plots align
 closely, suggesting a strong correlation between the opening and closing prices of the Netflix
 stock over the analyzed time period.
+
+![image](https://github.com/raisaurabh44/Netflix_Shares_Price_Prediction_Linear_Regression/assets/139812850/0d7629d8-e50d-4353-bf9e-b767632506b7)
+
 
 4.2 Descriptive Statistics
 Description of Insights:
@@ -96,9 +102,17 @@ correlations among themselves, all close to 1.
 is typical in financial time series data where the opening, high, low, and closing prices are
 closely related.
 
+![image](https://github.com/raisaurabh44/Netflix_Shares_Price_Prediction_Linear_Regression/assets/139812850/d1dbf1cd-f5c9-426c-adcf-8e627430dfeb)
+
+
 ## 5. Seasonality in Stock Prices
 I will now be using Grouping Aggregation in time series data into periods that exhibit similar
 seasonal patterns. Common periods include months, quarters, or even specific days of the week.
+
+![image](https://github.com/raisaurabh44/Netflix_Shares_Price_Prediction_Linear_Regression/assets/139812850/d66f9333-e10c-4a3d-8da8-aa28f2d32efa)
+
+![image](https://github.com/raisaurabh44/Netflix_Shares_Price_Prediction_Linear_Regression/assets/139812850/20081f8f-e59a-4764-b374-8f4658a2bfe3)
+
 
 ## 6. Predictive Analysis
 Model Prediction:
@@ -108,6 +122,10 @@ models that harness historical data to make informed predictions about future pr
 movements. These predictions serve as valuable insights for investors, guiding their decisionmaking
 processes and informing strategic investment choices.
 Potential Outcome of Predictions:
+
+![image](https://github.com/raisaurabh44/Netflix_Shares_Price_Prediction_Linear_Regression/assets/139812850/d3b606c2-2350-40b7-8515-942177ab3491)
+
+
 The outcomes of prediction hold significant implications for investors and stakeholders in the
 financial market. Accurate predictions enable investors to anticipate market trends, identify
 profitable investment opportunities, and mitigate risks associated with market volatility.
